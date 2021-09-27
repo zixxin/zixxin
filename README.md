@@ -3,9 +3,9 @@
 ### 1 Vacation, 1 Project !    
 
 ### ✔️ TEAMS 
-2021.03 ~ 슬기짜기 (SLE)  
+2021.03 ~ [슬기짜기 (SLE)](https://github.com/HGU-slegizzagi)  
 2021.03 ~ 아니 이거 왜 안돼 팀 (21-1 SLE 방학 프로젝트)  
-2021.06 ~ 조마루감자탕 팀
+2021.06 ~ [조마루감자탕](https://github.com/JMRGJT)  
 
 ### ✔️ PROJECT  
 2021.03 ~ 시간표 + 분실물 (App)  
