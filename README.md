@@ -10,7 +10,7 @@
 
 ### ✔️ PROJECT  
 2021.03 ~ 시간표+분실물 (App)  
-2021.06 ~ IT가이드 (App)
+2021.06 ~ IT가이드 (App)  
 2021.09 ~ (App)  
 
 ### ✔️ ACHIEVEMENTS    
