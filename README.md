@@ -12,6 +12,7 @@
 2021.03 ~ Finding (App)  
 2021.06 ~ IT가이드 (App)  
 2021.09 ~ Hisnet 공지 알림이 (App)  
+2021.09 ~ BizFlow AppDev Application 개발 (Web)  
 
 ### ✔️ ACHIEVEMENTS    
 2020.03 ~ 국가 이공계 우수 장학생  
