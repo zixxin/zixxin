@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-### 1 Vacation, 1 Project !    
+### 1 Vacation, more than 1 Project !    
 
 ### ✔️ TEAMS 
 2021.03 ~ [슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
