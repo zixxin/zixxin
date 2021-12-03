@@ -16,7 +16,7 @@
 
 ### ✔️ ACHIEVEMENTS    
 2020.03 ~ 국가 이공계 우수 장학생  
-2020.12 - 한동대학교 C프로그래밍 컨테스트 대상
-2021.11 - BizFlow * HGU AppDev Contest 장려상  
+2020.12 - 한동대학교 C프로그래밍 컨테스트 대상  
+2021.11 - BizFlow * HGU AppDev Contest 장려상    
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
