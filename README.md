@@ -1,7 +1,6 @@
 ## Hi there 👋  
 
-### 1 Vacation, more than 1 Project !  
-Gonna do everything want to do  
+### 1 Vacation, more than 1 Project !   
 
 ### ✔️ TEAMS 
 2021.03 ~ [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
