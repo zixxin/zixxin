@@ -2,6 +2,7 @@
 
 ### 1 Vacation, more than 1 Project !   
 
+### ✔️ GIT STATS
 ![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixxin&theme=github_dark&layout=compact)
 
