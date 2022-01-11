@@ -2,9 +2,6 @@
 
 ### 1 Vacation, more than 1 Project !   
 
-![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixxin&theme=github_dark&layout=compact)
-
 ### ✔️ TECH LIST
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
@@ -43,3 +40,7 @@
 2021.11 - BizFlow * HGU AppDev Contest 장려상    
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
+
+![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixxin&theme=github_dark&layout=compact)
