@@ -41,6 +41,7 @@
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
 
+### ✔️ GIT STATS 
 ![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixxin&theme=github_dark&layout=compact)
