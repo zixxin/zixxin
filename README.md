@@ -2,7 +2,7 @@
 
 ### 1 Vacation, more than 1 Project !   
 
-![Zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)
+![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)
 
 ### ✔️ TEAMS 
 2021.03 ~ [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
