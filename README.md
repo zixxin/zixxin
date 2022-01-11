@@ -3,10 +3,7 @@
 ### 1 Vacation, more than 1 Project !   
 
 ![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&theme=github_dark&show_icons=true)
-
-### Most Common Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixxin&theme=github_dark&layout=compact)
-
 
 ### ✔️ TECH LIST
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
