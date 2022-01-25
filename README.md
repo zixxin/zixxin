@@ -26,11 +26,15 @@
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ now - 세미콜론; (21-2 SLE 방학 프로젝트)  
 
-### ✔️ PROJECT - TEAM    
+### ✔️ TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (App)  
 2021.06 ~ 2021.11 - IT가이드 : 어른들을 IT 세계로 (App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
 2021.09 ~ now - 아맞다 : Hisnet 공지 알림이 (App)   
+
+### ✔️ PERSONAL PROJECT       
+2022.01 - project01 :   
+2022.01 ~ now - project02 :  
 
 ### ✔️ ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
