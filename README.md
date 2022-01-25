@@ -33,8 +33,8 @@
 2021.09 ~ now - 아맞다 : Hisnet 공지 알림이 (App)   
 
 ### ✔️ PERSONAL PROJECT       
-2022.01 - project01 : 쇼핑몰 어플리케이션 내 Products List UI 디자인 및 구현 (App)    
-2022.01 ~ now - project02 : 은행(카드) 어플 내 홈 화면 UI 디자인 및 구현 (App)  
+2022.01 - project01 : 쇼핑몰 어플리케이션 Products List UI 디자인 및 구현 (App)    
+2022.01 ~ now - project02 : Bank 어플리케이션 홈 화면 UI 디자인 및 구현 (App)  
 
 ### ✔️ ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
