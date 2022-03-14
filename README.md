@@ -36,8 +36,7 @@
 
 ### ✔️ PERSONAL PROJECT       
 2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
-2022.01 ~ 2022.02 - project02 : 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (App)  
-2022.02 ~ now - project03 : 음악 App 노래 재생 화면 UI 디자인 및 구현 (App)  
+2022.01 ~ 2022.02 - project02 : 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (App)   
 
 ### ✔️ ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
