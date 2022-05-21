@@ -34,6 +34,7 @@
 2021.06 ~ 2021.11 - IT가이드 : 어른들을 IT 세계로 (App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (App)   
+2022.04 ~ now - MicroLearnable : 온라인 Flutter 교육 플랫폼
 
 ### ✔️ PERSONAL PROJECT       
 2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
