@@ -1,5 +1,3 @@
-### 1 Vacation, more than 1 Project !   
-
 ### ✔️ TECH LIST
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
@@ -23,7 +21,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
 
 ### ✔️ TEAMS 
-2021.03 ~ now - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
+2021.03 ~ 2022.07 - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
 2021.03 ~ 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
@@ -34,8 +32,8 @@
 2021.06 ~ 2021.11 - IT가이드 : 어른들을 IT 세계로 (App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (App)   
-2022.03 ~ now - 한동대학교 카풀 서비스 (App)  
-2022.04 ~ now - MicroLearnable : 온라인 Flutter 교육 플랫폼  
+2022.03 ~ 2022.06 - 한동대학교 카풀 서비스 (App)  
+2022.04 ~ now - MicroLearnable : 온라인 Flutter 교육 플랫폼 (Flutter Web) 
 
 ### ✔️ PERSONAL PROJECT       
 2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
