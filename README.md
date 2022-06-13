@@ -19,6 +19,17 @@
 [![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)](#)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)  
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](#) 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](#) 
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](#) 
+[![XCode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)](#) 
+[![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)](#) 
+[![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#) 
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](#) 
+[![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#) 
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](#)   
 
 ### ✔️ TEAMS 
 2021.03 ~ 2022.07 - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
@@ -26,7 +37,7 @@
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
 2022.03 ~ now - HOM  
-2021.04 ~ now - Software Factory Lab  
+2022.04 ~ now - Software Factory Lab  
 2022.06 ~ now - 지인과 쩌리들  
 
 ### ✔️ TEAM PROJECT     
@@ -34,8 +45,8 @@
 2021.06 ~ 2021.11 - IT가이드; 어른들을 IT 세계로 (App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (App)   
-2022.04 ~ now - MicroLearnable; 온라인 Flutter 교육 플랫폼 (Flutter Web)   
-2022.03 ~ now - 같이카 카풀 서비스 (App)   
+2022.03 ~ now - 같이카 카풀 서비스 (App)  
+2022.04 ~ now - MicroLearnable; 온라인 Flutter 교육 플랫폼 (Flutter Web)     
 
 ### ✔️ PERSONAL PROJECT       
 2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
@@ -49,7 +60,7 @@
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
 
 ### ✔️ CONTACT ME!  
-e-mail: 22000487@handong.ac.kr   
+e-mail: 22000487@handong.ac.kr     
 
 ### ✔️ GIT STATS 
 ![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&show_icons=true&theme=github_dark)
