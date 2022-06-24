@@ -1,4 +1,10 @@
-### ✔️ TECH LIST
+### ☑️ ABOUT ME
+Handong Global University 20  
+Major in Computer Science  
+Content team leader of Software Factory  
+
+
+### ☑️ TECH LIST
 [![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](#)
@@ -40,7 +46,7 @@
 2022.04 ~ now - Software Factory Lab  
 2022.06 ~ now - 지인과 쩌리들  
 
-### ✔️ TEAM PROJECT     
+### ☑️ TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (App)  
 2021.06 ~ 2021.11 - IT가이드; 어른들을 IT 세계로 (App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
@@ -48,21 +54,22 @@
 2022.03 ~ now - 같이카 카풀 서비스 (App)  
 2022.04 ~ now - MicroLearnable; 온라인 Flutter 교육 플랫폼 (Flutter Web)     
 
-### ✔️ PERSONAL PROJECT       
+### ☑️ PERSONAL PROJECT       
 2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
 2022.01 ~ 2022.02 - project02 : 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (App)      
 
-### ✔️ ACHIEVEMENTS    
+### ☑️ ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
 2020.12 - 한동대학교 C프로그래밍 컨테스트 대상  
 2021.11 - BizFlow * HGU AppDev Contest 장려상    
 2021.12 - 2021 한동 SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전 대상  
 2021.12 - 2021 한동 SW Festival 스마트 애플리케이션 공모전 장려상  
 
-### ✔️ CONTACT ME!  
-e-mail: 22000487@handong.ac.kr     
+### ☑️ CONTACT ME!  
+e-mail: 22000487@handong.ac.kr  
+instagram: dev.zixxin    
 
-### ✔️ GIT STATS 
+### ☑️ GIT STATS 
 ![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&show_icons=true&theme=github_dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zixxin&theme=github_dark&layout=compact)
