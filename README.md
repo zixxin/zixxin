@@ -52,7 +52,7 @@
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (App)   
 2022.03 ~ now - 같이카 카풀 서비스 (App)  
-2022.04 ~ now - MicroLearnable; 온라인 Flutter 교육 플랫폼 (Flutter Web)     
+2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); 온라인 Flutter 교육 플랫폼 (Flutter Web)     
 
 ### ☑️ PERSONAL PROJECT       
 2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
