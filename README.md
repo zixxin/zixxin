@@ -37,7 +37,7 @@
 [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](#)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](#)   
 
-### ✔️ TEAMS 
+### ☑️ TEAMS 
 2021.03 ~ 2022.07 - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
 2021.03 ~ 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
 2021.06 ~ 2021.12 - 조마루감자탕  
