@@ -47,16 +47,16 @@
 2022.06 ~ now - 지인과 쩌리들  
 
 ### ☑️ TEAM PROJECT     
-2021.03 ~ 2021.11 - Finding (App)  
-2021.06 ~ 2021.11 - IT가이드; 어른들을 IT 세계로 (App)   
+2021.03 ~ 2021.11 - Finding (Flutter App)  
+2021.06 ~ 2021.11 - IT가이드; 어른들을 IT 세계로 (Flutter App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
-2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (App)   
-2022.03 ~ now - 같이카 카풀 서비스 (App)  
+2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (Flutter App)   
+2022.03 ~ now - 같이카 카풀 서비스 (Flutter App)  
 2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); 온라인 Flutter 교육 플랫폼 (Flutter Web)     
 
 ### ☑️ PERSONAL PROJECT       
-2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (App)    
-2022.01 ~ 2022.02 - project02 : 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (App)      
+2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (Flutter App)    
+2022.01 ~ 2022.02 - project02 : 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (Flutter App)      
 
 ### ☑️ ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
