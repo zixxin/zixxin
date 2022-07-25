@@ -38,7 +38,7 @@
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](#)   
 
 ### ☑️ TEAMS 
-2021.03 ~ 2022.07 - [한동대학교 전산분과 동아리 슬기짜기(SLE)](https://github.com/HGU-slegizzagi)  
+2021.03 ~ 2022.07 - 한동대학교 전산분과 동아리 슬기짜기(SLE)  
 2021.03 ~ 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
