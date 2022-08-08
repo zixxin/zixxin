@@ -1,7 +1,7 @@
 ### ☑️ ABOUT ME
 🏫 | Handong Global University 20  
 📝 | Major in Computer Science  
-💼 | Content team leader of Software Factory  
+💼 | Leader of Contents Team in Software Factory  
 
 
 ### ☑️ TECH LIST
