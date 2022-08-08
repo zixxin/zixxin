@@ -43,9 +43,9 @@
 2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); 온라인 Flutter 교육 플랫폼 (Flutter Web)     
 
 ### ☑️ PERSONAL PROJECT       
-2022.01 - project01 : 쇼핑몰 App Products List UI 디자인 및 구현 (Flutter App)    
-2022.01 ~ 2022.02 - project02 : 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (Flutter App)  
-2022.07 - project03 : Audio Player App UI 디자인 및 구현 (Flutter App)     
+2022.01 - 쇼핑몰 App Products List UI 디자인 및 구현 (Flutter App)    
+2022.01 ~ 2022.02 - 오픈뱅킹 App 홈 화면 UI 디자인 및 구현 (Flutter App)  
+2022.07 - Audio Player App UI 디자인 및 구현 (Flutter App)     
 
 ### ☑️ ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
