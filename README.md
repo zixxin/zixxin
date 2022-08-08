@@ -1,7 +1,7 @@
 ### ☑️ ABOUT ME
 🏫 | Handong Global University 20  
-📝 | Major in Computer Science  
-💼 | Leader of Contents Team in Software Factory  
+📝 | Major in Artificial Intelligence, Computer Science and Engineering    
+💼 | A Leader of Contents Team in SoftwareFactory  
 
 
 ### ☑️ TECH LIST
@@ -43,7 +43,7 @@
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
 2022.03 ~ now - HOM  
-2022.04 ~ now - Software Factory  
+2022.04 ~ now - SoftwareFactory  
 2022.06 ~ now - 지인과 쩌리들  
 
 ### ☑️ TEAM PROJECT     
