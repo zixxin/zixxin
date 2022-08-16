@@ -30,16 +30,16 @@
 2021.03 ~ 2021.11 - 아니 이거 왜 안돼 (21-1 SLE 방학 프로젝트)   
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
-2022.03 ~ now - HOM  
-2022.04 ~ now - SoftwareFactory  
-2022.06 ~ now - 지인과 쩌리들  
+2022.03 ~ 2022.09 - HOM   
+2022.04 ~ now - SoftwareFactory    
+2022.06 ~ 2022.09 - 지인과 쩌리들   
 
 ### ☑️ TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (Flutter App)  
 2021.06 ~ 2021.11 - IT가이드; 어른들을 IT 세계로 (Flutter App)   
 2021.09 ~ 2021.11 - 한동대 인근 병원 추천 시스템 (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - 아맞다; Hisnet 공지 알림이 (Flutter App)   
-2022.03 ~ now - 같이카 카풀 서비스 (Flutter App)  
+2022.03 ~ 2022.09 - 같이카 카풀 서비스 (Flutter App)  
 2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); 온라인 Flutter 교육 플랫폼 (Flutter Web)     
 
 ### ☑️ PERSONAL PROJECT       
