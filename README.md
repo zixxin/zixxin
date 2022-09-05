@@ -1,7 +1,7 @@
 ### ☑️ ABOUT ME
 🏫 | Handong Global University 20  
 📝 | Major in Artificial Intelligence, Computer Science and Engineering    
-💼 | A Leader of Contents Team at SoftwareFactory  
+💼 | A Leader of Contents Team at SoftwareFactory (DevOps Engineer)    
 
 
 ### ☑️ TECH LIST
