@@ -59,7 +59,7 @@
 
 ### ☑️ CONTACT ME!  
 e-mail: 22000487@handong.ac.kr  
-instagram: dev.zixxin    
+instagram: [dev.zixxin](https://www.instagram.com/dev.zixxin/)      
 
 ### ☑️ GIT STATS 
 ![zixxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=zixxin&show_icons=true&theme=github_dark)
