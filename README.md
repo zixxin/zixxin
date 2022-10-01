@@ -9,7 +9,7 @@
 ### 🧑‍🤝‍🧑 TEAMS 
 2021.03 ~ 2022.07 - SLE (HGU's Computer Science Engineering Society)     
 2021.03 ~ 2021.11 - Why Not? (2021-1 Vacation Project in SLE)   
-2021.06 ~ 2021.12 - JoMaRoo GamJaTang 
+2021.06 ~ 2021.12 - JoMaRoo GamJaTang   
 2021.09 ~ 2022.01 - Semicolon; (2021-2 Vacation Project in SLE)  
 2022.03 ~ 2022.09 - HOM   
 2022.04 ~ now - The Boatmans (HGU's Graduation Project)  
