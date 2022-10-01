@@ -31,8 +31,7 @@
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - 세미콜론; (21-2 SLE 방학 프로젝트)  
 2022.03 ~ 2022.09 - HOM   
-2022.04 ~ now - SoftwareFactory    
-2022.06 ~ 2022.09 - 지인과 쩌리들   
+2022.04 ~ now - SoftwareFactory      
 
 ### ☑️ TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (Flutter App)  
