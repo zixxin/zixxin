@@ -4,7 +4,7 @@
 
 ### 💼 WORK EXPERIENCE 
 2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)    
-2022.08 ~ now - TA of HGU 'Development of Mobile Application' Course       
+2022.08 ~ now - TA of 'Development of Mobile Application' Course in HGU      
 
 ### 🧑‍🤝‍🧑 TEAMS 
 2021.03 ~ 2022.07 - SLE (HGU's Computer Science Engineering Society)     
