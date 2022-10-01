@@ -3,8 +3,8 @@
 📝 | Major in Artificial Intelligence, Computer Science and Engineering       
 
 ### 💼 WORK EXPERIENCE 
+2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)    
 2022.08 ~ now - TA of HGU 'Development of Mobile Application' course       
-2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)   
 
 ### 🧑‍🤝‍🧑 TEAMS 
 2021.03 ~ 2022.07 - 한동대학교 전산분과 동아리 슬기짜기(SLE)  
