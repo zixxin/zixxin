@@ -10,7 +10,8 @@
 2021.03 ~ 2021.11 - Why Not? (21-1 SLE 방학 프로젝트)   
 2021.06 ~ 2021.12 - 조마루감자탕  
 2021.09 ~ 2022.01 - Semicolon; (21-2 SLE 방학 프로젝트)  
-2022.03 ~ 2022.09 - HOM        
+2022.03 ~ 2022.09 - HOM 
+2022.04 ~ now - 사공들 (HGU 공학프로젝트기획, 캡스톤디자인)  
 
 ### 👩🏻‍💻 TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (Flutter App)  
@@ -34,4 +35,5 @@
 2020.12 - [대상] HGU C Programming Contest  
 2021.11 - [장려상] BizFlow * HGU AppDev Contest     
 2021.12 - [대상] 2021 HGU SW Festival 소프트웨어를 활용한 문제해결 아이디어 공모전    
-2021.12 - [장려상] 2021 HGU SW Festival 스마트 애플리케이션 공모전         
+2021.12 - [장려상] 2021 HGU SW Festival 스마트 애플리케이션 공모전    
+2022.09 ~ now - STAR(다학제융합연구) 학생연구팀 지원사업 선정
