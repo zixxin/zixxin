@@ -28,7 +28,7 @@
 2022.08 - App OnBoarding Page UI 디자인 및 구현 (Flutter App)   
 2022.08 - TVING App 미메시스 (Flutter App)  
 2022.09 - Booking.com App 미메시스 (Flutter App)   
-2022.10 - grit App 미메시스 (Flutter App)   
+2022.10 ~ now - grit App 미메시스 (Flutter App)   
 
 ### 🏆 ACHIEVEMENTS    
 2020.03 ~ now - 국가 이공계 우수 장학생  
