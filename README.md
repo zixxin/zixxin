@@ -3,7 +3,7 @@
 📝 | Major in Artificial Intelligence, Computer Science and Engineering       
 
 ### 💼 WORK EXPERIENCE 
-2022.08 ~ now - HGU 'Development of Mobile Application' TA. 
+2022.08 ~ now - HGU 'Development of Mobile Application' course TA     
 2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)   
 
 ### 🧑‍🤝‍🧑 TEAMS 
