@@ -20,7 +20,7 @@
 2021.06 ~ 2021.11 - IT Guide; Lead Adults to the IT World (Flutter App)   
 2021.09 ~ 2021.11 - Hospital Recommendation System (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - Oh, right!; Announcement Notification system (Flutter App)   
-2022.03 ~ 2022.09 - Car pool service for HGU (Flutter App)  
+2022.03 ~ 2022.09 - CarPool service for HGU (Flutter App)  
 2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); Online Coding Education Platform (Flutter Web)     
 
 ### 👩🏻‍💻 PERSONAL PROJECT       
