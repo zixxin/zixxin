@@ -40,4 +40,5 @@
 2021.11 - [Encourage Prize] BizFlow * HGU AppDev Contest     
 2021.12 - [1st Prize] 2021 HGU SW Festival Contest of Problem Solving Ideas Using Software    
 2021.12 - [Encourage Prize] 2021 HGU SW Festival Contest of Developing Mobile Applications    
-2022.09 ~ now - STAR(Multi-disciplinary Convergence Research) Student Research Team Project
+2022.09 ~ now - STAR(Multi-disciplinary Convergence Research) Student Research Team Project 
+2022.10 - [Excellence Prize] 2022 HGU SW Festival Contest of Developing Mobile Applications   
