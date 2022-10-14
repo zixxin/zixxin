@@ -3,6 +3,7 @@
 📝 | Major in Artificial Intelligence, Computer Science Engineering       
 
 ### 💼 WORK EXPERIENCE 
+2021.08 ~ 2021.12 - Welfare Department of Student Council in HGU      
 2022.03 ~ 2022.06 - Python Education in Pohang Dongji Girls' High School    
 2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)    
 2022.08 ~ now - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
