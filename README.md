@@ -6,7 +6,7 @@
 2021.08 ~ 2021.12 - Welfare Department of Student Council in HGU      
 2021.08 ~ 2022.07 - Vice President of HGU's Computer Science Engineering Academy, SLE     
 2022.03 ~ 2022.06 - Python Education in Pohang Dongji Girls' High School    
-2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)    
+2022.04 ~ now - A Leader of Contents Team and DevOps Engineer in SoftwareFactory     
 2022.08 ~ now - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
 
 ### 🧑‍🤝‍🧑 TEAMS 
