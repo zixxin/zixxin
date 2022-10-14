@@ -4,12 +4,13 @@
 
 ### 💼 WORK EXPERIENCE 
 2021.08 ~ 2021.12 - Welfare Department of Student Council in HGU      
+2021.08 ~ 2022.07 - Vice President of HGU's Computer Science Engineering Academy, SLE     
 2022.03 ~ 2022.06 - Python Education in Pohang Dongji Girls' High School    
 2022.04 ~ now - SoftwareFactory (A Leader of Contents Team, DevOps Engineer)    
 2022.08 ~ now - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
 
 ### 🧑‍🤝‍🧑 TEAMS 
-2021.03 ~ 2022.07 - SLE (HGU's Computer Science Engineering Society)     
+2021.03 ~ 2022.07 - SLE (HGU's Computer Science Engineering Academy)     
 2021.03 ~ 2021.11 - Why Not? (2021-1 Vacation Project in SLE)   
 2021.06 ~ 2021.12 - JoMaRoo (2021 SW Festival Contest in HGU)   
 2021.09 ~ 2022.01 - Semicolon; (2021-2 Vacation Project in SLE)  
