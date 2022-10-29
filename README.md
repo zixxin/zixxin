@@ -6,7 +6,7 @@
 2021.08 ~ 2021.12 - Welfare Department of Student Council in HGU      
 2021.08 ~ 2022.07 - Vice President of Computer Science Engineering Academy, SLE in HGU     
 2022.03 ~ 2022.06 - Python Education in Pohang Dongji Girls' High School    
-2022.04 ~ now - A Leader of Contents Team and DevOps Engineer in SoftwareFactory     
+2022.04 ~ now - A Leader of Contents Team and DevOps Engineer in [SoftwareFactory](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)       
 2022.08 ~ now - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
 
 ### 🧑‍🤝‍🧑 TEAMS 
@@ -15,6 +15,7 @@
 2021.06 ~ 2021.12 - JoMaRoo (2021 SW Festival Contest in HGU)   
 2021.09 ~ 2022.01 - Semicolon; (2021-2 Vacation Project in SLE)  
 2022.03 ~ 2022.09 - HOM (2022 SW Festival Contest in HGU)  
+2022.04 ~ now - [SWF SoftwareFactory Inc.](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)     
 2022.04 ~ now - The Boatmans (Graduation Project in HGU)  
 
 ### 👩🏻‍💻 TEAM PROJECT     
