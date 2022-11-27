@@ -33,7 +33,7 @@
 2022.08 - App OnBoarding Page UI Design and Develop (Flutter App)   
 2022.08 - TVING App Mimesis (Flutter App)  
 2022.09 - Booking.com App Mimesis (Flutter App)   
-2022.10 ~ now - grit App Mimesis (Flutter App)   
+2022.11 - grit App Mimesis (Flutter App)   
 
 ### 🏆 ACHIEVEMENTS    
 2020.03 ~ now - A Scholarship Student in Science and Engineering   
