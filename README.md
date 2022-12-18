@@ -34,6 +34,7 @@
 2022.08 - TVING App Mimesis (Flutter App)  
 2022.09 - Booking.com App Mimesis (Flutter App)   
 2022.11 - grit App Mimesis (Flutter App)   
+2022.12 ~ now - StockX App Mimesis (Flutter App)        
 
 ### 🏆 ACHIEVEMENTS    
 2020.03 ~ now - A Scholarship Student in Science and Engineering   
