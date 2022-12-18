@@ -7,7 +7,7 @@
 2021.08 ~ 2022.07 - Vice President of Computer Science Engineering Academy, SLE in HGU     
 2022.03 ~ 2022.06 - Python Education in Pohang Dongji Girls' High School    
 2022.04 ~ now - A Leader of Contents Team and DevOps Engineer in [SoftwareFactory](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)       
-2022.08 ~ now - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
+2022.08 ~ 2022.12 - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
 
 ### 🧑‍🤝‍🧑 TEAMS 
 2021.03 ~ 2022.07 - SLE (HGU's Computer Science Engineering Academy)     
@@ -41,6 +41,7 @@
 2021.11 - [Encourage Prize] BizFlow * HGU AppDev Contest     
 2021.12 - [1st Prize] 2021 HGU SW Festival Contest of Problem Solving Ideas Using Software    
 2021.12 - [Encourage Prize] 2021 HGU SW Festival Contest of Developing Mobile Applications    
-2022.09 ~ now - STAR(Multi-disciplinary Convergence Research) Student Research Team Project   
+2022.09 ~ 2022.12 - STAR(Multi-disciplinary Convergence Research) Student Research Team Project   
 2022.10 - [Excellence Prize] 2022 HGU SW Festival Contest of Developing Mobile Applications   
 2022.10 - [1st Prize] 2022 HGU SW Contest for Writing Review about Participated Programs         
+2022.12 - [Popularity Award] 2022 HGU Fall CSEE Capstone Festival (Graduation Project)         
