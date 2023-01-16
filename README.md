@@ -24,7 +24,8 @@
 2021.09 ~ 2021.11 - Hospital Recommendation System (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - Oh, right!; Announcement Notification system (Flutter App)   
 2022.03 ~ 2022.09 - Carpool service for HGU (Flutter App)  
-2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); Online Coding Education Platform (Flutter Web)     
+2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); Online Coding Education Platform (Flutter Web)   
+2023.01 ~ now - EmotionBarn (Flutter App)   
 
 ### 👩🏻‍💻 PERSONAL PROJECT       
 2022.01 - Shopping Mall App UI Design and Develop (Flutter App)    
