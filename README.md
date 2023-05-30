@@ -26,7 +26,7 @@
 2022.03 ~ 2022.09 - Carpool service for HGU (Flutter App)  
 2022.04 ~ 2023.06 - [MicroLearnable](https://microlearnable.com/); Online Coding Education Platform (Flutter Web)   
 2023.01 ~ 2023.03 - EmotionBarn (Flutter App)   
-2023.01 ~ 2023.03 - GraduationLion (Flutter App)  
+2023.01 ~ now - GraduationLion (Flutter App)  
 
 ### 👩🏻‍💻 PERSONAL PROJECT       
 2022.01 - Shopping Mall App UI Design and Develop (Flutter App)    
