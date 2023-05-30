@@ -6,7 +6,7 @@
 2021.08 ~ 2021.12 - Welfare Department of Student Council in HGU      
 2021.08 ~ 2022.07 - Vice President of Computer Science Engineering Academy, SLE in HGU     
 2022.03 ~ 2022.06 - Python Education in Pohang Dongji Girls' High School    
-2022.04 ~ 2023.01 - A Leader of Contents Team and DevOps Engineer in [SoftwareFactory](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)       
+2022.04 ~ 2023.01 - A Leader of Contents Team and DevOps Engineer in [SoftwareFactory](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)  
 2022.08 ~ 2022.12 - Teaching Assistant of 'Mobile Application Development(Flutter)' Course in HGU      
 
 ### 🧑‍🤝‍🧑 TEAMS 
@@ -16,7 +16,7 @@
 2021.09 ~ 2022.01 - Semicolon; (2021-2 Vacation Project in SLE)  
 2022.03 ~ 2022.09 - HOM (2022 SW Festival Contest in HGU)  
 2022.04 ~ 2023.01 - [SWF SoftwareFactory Inc.](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)     
-2022.04 ~ now - The Boatmans (Graduation Project in HGU)  
+2022.04 ~ 2023.06 - The Boatmans (Graduation Project in HGU)  
 
 ### 👩🏻‍💻 TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (Flutter App)  
@@ -24,8 +24,9 @@
 2021.09 ~ 2021.11 - Hospital Recommendation System (BizFlow AppDev Web)   
 2021.09 ~ 2022.01 - Oh, right!; Announcement Notification system (Flutter App)   
 2022.03 ~ 2022.09 - Carpool service for HGU (Flutter App)  
-2022.04 ~ now - [MicroLearnable](https://microlearnable.com/); Online Coding Education Platform (Flutter Web)   
-2023.01 ~ now - EmotionBarn (Flutter App)   
+2022.04 ~ 2023.06 - [MicroLearnable](https://microlearnable.com/); Online Coding Education Platform (Flutter Web)   
+2023.01 ~ 2023.03 - EmotionBarn (Flutter App)   
+2023.01 ~ 2023.03 - GraduationLion (Flutter App)  
 
 ### 👩🏻‍💻 PERSONAL PROJECT       
 2022.01 - Shopping Mall App UI Design and Develop (Flutter App)    
