@@ -1,6 +1,6 @@
 ### 🧐 ABOUT ME
 🏫 | Handong Global University 20  
-📝 | AI 컴퓨터공학심화 전공       
+📝 | 전산전자공학부 소속 AI 컴퓨터공학심화 전공       
 
 ### 💼 WORK EXPERIENCE 
 2021.08 ~ 2021.12 - 한동대학교 제26대 총학생회 'KEEPER' 복지국 국원        
