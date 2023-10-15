@@ -17,6 +17,7 @@
 2022.03 ~ 2022.09 - TEAM HOM (2022년도 한동대학교 SW 페스티벌 콘테스트)  
 2022.04 ~ 2023.01 - IT 스타트업 [(주)소프트웨어팩토리](https://www.notion.so/SoftwareFactory-Team-4394fc08bab0432a913e7d0f36f3c601)     
 2022.04 ~ 2023.06 - TEAM 사공들 (한동대학교 졸업프로젝트 - 공학프로젝트기획, 캡스톤디자인)  
+2023.09 ~ now - (주)두더지프로젝트 TEAM 국내브랜딩 (스타트업 제품 기획 및 개발 강의 팀 프로젝트)  
 
 ### 👩🏻‍💻 TEAM PROJECT     
 2021.03 ~ 2021.11 - Finding (Flutter App)  
@@ -27,6 +28,7 @@
 2022.04 ~ 2023.06 - [MicroLearnable](https://microlearnable.com/); 온라인 코딩 교육 플랫폼 (Flutter Web)   
 2023.01 ~ 2023.03 - 감정저장소 (Flutter App)   
 2023.01 ~ 2023.06 - 졸업사자 (Flutter App)  
+2023.09 ~ now - (주)두더지프로젝트 기업 웹사이트 제작 (Flutter Web)  
 
 ### 👩🏻‍💻 PERSONAL PROJECT       
 2022.01 - Shopping Mall App UI 디자인 및 개발 (Flutter App)    
